@@ -5,3 +5,4 @@
 ## Goal
 
 - Awesome data-scientist
+- Awesome programmer
