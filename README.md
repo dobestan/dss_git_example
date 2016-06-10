@@ -6,3 +6,8 @@
 
 - Awesome data-scientist
 - Awesome programmer
+
+
+## Integration
+
+- added Slack integration
